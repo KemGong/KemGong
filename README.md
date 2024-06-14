@@ -1,3 +1,6 @@
+
+![alt text](image.png)
+
 ## Hey there, I'm Ken 👋
 
 Embedded developer and focus on eveything with electricity 🧐.
